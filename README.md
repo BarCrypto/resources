@@ -10,7 +10,10 @@ Le format markdown en quelques minutes : https://github.com/adam-p/markdown-here
 * http://rantanplancoin.com
 
   Un super site pour miner du rantanplancoin avec son chien et un raspberrypi
+  
   Donnez une indication generale sur la premiere ligne et detaillez ensuite si vous le souhaitez
+  et bla bla la mais lorem ipsum aussi oh il faut penser a dupoont et dupond, tres bonne introduction au tintincoin
+  et au duckcoin qui fait coin coin
 
 * http://miaousscoin.com
 
